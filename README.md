@@ -8,7 +8,7 @@ The source code is available at https://github.com/jianzhang-xynu/hybridDBRpred
 
 # Install 
 
-## Required predictions from other web servers.
+## Required predictions from other web servers
 
 * DNAgenie web server
 http://biomine.cs.vcu.edu/servers/DNAgeine/
@@ -98,7 +98,7 @@ The code has been tested on both GPU and CPU-only computer.
 
 The features data is provided in 'data/features/' folder.
 
-The labels data is provide in 'data/labels/' folder.
+The labels data is provided in 'data/labels/' folder.
 
 # Citation
 
