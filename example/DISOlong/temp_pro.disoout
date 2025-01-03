@@ -1,0 +1,87 @@
+# IUPred3 - improved prediction of protein disorder with a focus on specific user applications 
+# Gábor Erdős, Mátyás Pajkos, Zsuzsanna Dosztányi
+# Nucleic Acids Research 2021, Submitted
+# 
+# IUPred2A: context-dependent prediction of protein disorder as a function of redox state and protein binding
+# Balint Meszaros, Gabor Erdos, Zsuzsanna Dosztanyi
+# Nucleic Acids Research 2018;46(W1):W329-W337.
+#
+# Prediction type: long
+# Smoothing used: medium
+# Prediction output
+# POS	RES	IUPRED2	
+1	M	0.6869
+2	P	0.7106
+3	P	0.7181
+4	R	0.7167
+5	L	0.7115
+6	S	0.7049
+7	Y	0.6979
+8	K	0.6902
+9	T	0.6806
+10	G	0.6679
+11	G	0.6434
+12	N	0.6143
+13	M	0.5927
+14	N	0.5697
+15	R	0.5640
+16	A	0.5628
+17	L	0.5709
+18	S	0.5927
+19	P	0.6176
+20	M	0.6309
+21	V	0.6360
+22	S	0.6205
+23	E	0.5875
+24	F	0.5535
+25	E	0.5174
+26	T	0.4763
+27	I	0.4503
+28	E	0.4301
+29	Q	0.4226
+30	E	0.4168
+31	N	0.4137
+32	S	0.4086
+33	Y	0.4181
+34	N	0.4355
+35	E	0.4526
+36	W	0.4653
+37	L	0.4793
+38	R	0.4886
+39	A	0.4920
+40	K	0.4868
+41	V	0.4853
+42	A	0.4851
+43	T	0.4962
+44	S	0.5169
+45	L	0.5406
+46	A	0.5697
+47	D	0.6219
+48	P	0.6675
+49	R	0.7011
+50	P	0.7206
+51	A	0.7281
+52	I	0.7329
+53	P	0.7357
+54	H	0.7265
+55	D	0.7037
+56	E	0.6862
+57	V	0.6700
+58	E	0.6545
+59	R	0.6493
+60	R	0.6429
+61	M	0.6472
+62	A	0.6564
+63	E	0.6665
+64	R	0.6699
+65	F	0.6800
+66	A	0.6866
+67	K	0.6830
+68	M	0.6790
+69	R	0.6769
+70	K	0.6782
+71	E	0.6828
+72	R	0.6889
+73	S	0.6919
+74	K	0.6838
+75	Q	0.6530
