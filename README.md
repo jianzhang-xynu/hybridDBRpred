@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # hybridDBRpred
 
 HybridDBRpred is designed for accurate prediction of DNA-binding residues from both structure-annotated and disorder-annotated proteins.
@@ -107,9 +105,3 @@ The labels data is provided in 'data/labels/' folder.
 Upon the usage the users are requested to use the following citation:
 
 Jian Zhang, Sushmita Basu, Lukasz Kurgan. HybridDBRpred: improved sequence-based prediction of DNA-binding amino acids using annotations from structured complexes and disordered proteins.
-=======
-# hybridDBRpred
->>>>>>> a778fd377805f63582ffa2590b8ee50ad2306104
-=======
-# hybridDBRpred
->>>>>>> 0787a2bed6f833120d9545c001fa6e9136021946
