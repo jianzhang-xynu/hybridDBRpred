@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # hybridDBRpred
 
 HybridDBRpred is designed for accurate prediction of DNA-binding residues from both structure-annotated and disorder-annotated proteins.
@@ -109,3 +110,6 @@ Jian Zhang, Sushmita Basu, Lukasz Kurgan. HybridDBRpred: improved sequence-based
 =======
 # hybridDBRpred
 >>>>>>> a778fd377805f63582ffa2590b8ee50ad2306104
+=======
+# hybridDBRpred
+>>>>>>> 0787a2bed6f833120d9545c001fa6e9136021946
